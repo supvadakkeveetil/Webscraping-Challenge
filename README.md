@@ -7,10 +7,12 @@ Webscraping from the Mars News Article and Mars Weather Data websites
 Steps: 1. Inspect the website using Devtools
 2. Create a Beautiful Soup object and use it to extract elements from the website
 3. Extract the title and preview of the news articles and store in a Python Data Structure
-
-
-### Part2 - Scrape and Analyze Mars Weather Data
-
+Example:
+{'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm",
+  'preview': 'For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27.'}
+  
+  ### Part2 - Scrape and Analyze Mars Weather Data
+![Screen Shot 2023-12-05 at 3 50 21 PM](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/cdcb591f-b183-4737-9720-50f4343425b7)
 Analyzing dataset using Pandas functions to answer the following questions:
 1. How many months exist on Mars?
 Answer: 12 months
