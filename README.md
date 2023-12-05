@@ -42,6 +42,8 @@ Highest Pressure on Mars is observed in the 9th month
 5. About how many terrestrial (Earth) days exist in a Martian year? 
 Visually estimating the result by plotting the daily minimum temperature.
 
+![image](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/523f9b59-4223-4122-9295-edcdc74e8045)
+
 Answer: The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
 
 
