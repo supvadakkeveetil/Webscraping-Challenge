@@ -5,15 +5,21 @@ Webscraping from the Mars News Article and Mars Weather Data websites
 ### Part1 - Scrape Titles and Preview Text from Mars News
 
 Steps: 1. Inspect the website using Devtools
+
 2. Create a Beautiful Soup object and use it to extract elements from the website
+   
 3. Extract the title and preview of the news articles and store in a Python Data Structure
+
 Example:
+
 {'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm",
   'preview': 'For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27.'}
   
   ### Part2 - Scrape and Analyze Mars Weather Data
 ![Screen Shot 2023-12-05 at 3 50 21 PM](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/cdcb591f-b183-4737-9720-50f4343425b7)
+
 Analyzing dataset using Pandas functions to answer the following questions:
+
 1. How many months exist on Mars?
 Answer: 12 months
 
@@ -21,13 +27,14 @@ Answer: 12 months
 Answer: 1867
 
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? 
-
+![image](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/c6c136bb-21ec-4730-9330-e2c1dfa383a6)
 
 Answer: Coldest month in Curiosity location is 3rd month
 Hottest month in Curiosity location is 8th month
 
 4. Which months have the lowest and the highest atmospheric pressure on Mars? 
 
+![image](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/2dcbd2f5-f0e0-4802-8126-392d16308e7c)
 
 Answer: Lowest Stmospheric Pressure on Mars is observed in the 6th month 
 Highest Pressure on Mars is observed in the 9th month
