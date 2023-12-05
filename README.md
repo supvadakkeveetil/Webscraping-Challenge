@@ -30,16 +30,19 @@ Answer: 1867
 ![image](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/c6c136bb-21ec-4730-9330-e2c1dfa383a6)
 
 Answer: Coldest month in Curiosity location is 3rd month
+
 Hottest month in Curiosity location is 8th month
 
 4. Which months have the lowest and the highest atmospheric pressure on Mars? 
 
 ![image](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/2dcbd2f5-f0e0-4802-8126-392d16308e7c)
 
-Answer: Lowest Stmospheric Pressure on Mars is observed in the 6th month 
+Answer: Lowest Stmospheric Pressure on Mars is observed in the 6th month
+
 Highest Pressure on Mars is observed in the 9th month
 
-5. About how many terrestrial (Earth) days exist in a Martian year? 
+5. About how many terrestrial (Earth) days exist in a Martian year?
+   
 Visually estimating the result by plotting the daily minimum temperature.
 
 ![image](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/523f9b59-4223-4122-9295-edcdc74e8045)
