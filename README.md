@@ -3,8 +3,9 @@
 Webscraping from the Mars News Article and Mars Weather Data websites
 
 ### Part1 - Scrape Titles and Preview Text from Mars News 
-[
-](https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/part_1_mars_news.ipynb)
+
+Link-
+[(https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/part_1_mars_news.ipynb)](https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/part_1_mars_news.ipynb)
 
 Steps: 1. Inspect the website using Devtools
 
@@ -18,8 +19,9 @@ Example:
   'preview': 'For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27.'}
   
   ### Part2 - Scrape and Analyze Mars Weather Data
-[
-](https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/part_2_mars_weather.ipynb)
+
+Link-
+[(https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/part_2_mars_weather.ipynb)](https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/part_2_mars_weather.ipynb)
 
 ![Screen Shot 2023-12-05 at 3 50 21 PM](https://github.com/supvadakkeveetil/Webscraping-Challenge/assets/144635564/cdcb591f-b183-4737-9720-50f4343425b7)
 
@@ -54,8 +56,9 @@ Visually estimating the result by plotting the daily minimum temperature.
 
 Answer: The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
 
-6. Saving the DataFrame into a csv file -Link
-   [
-](https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/Mars_weather_data)
+6. Saving the DataFrame into a csv file
+Link : 
+   [(https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/Mars_weather_data)](https://github.com/supvadakkeveetil/Webscraping-Challenge/blob/main/Mars_weather_data)
+   
 ## References
 Data Source: The Mars News websiteLinks to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars NewsLinks to an external site. website in November 2022. Images are used according to the JPL Image Use PolicyLinks to an external site., courtesy NASA/JPL-Caltech.
